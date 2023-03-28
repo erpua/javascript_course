@@ -1,0 +1,10 @@
+{
+    "visible": true,
+    "colorDepth": 24,
+    "title": "My image",
+    "orientation": {
+        "angle": 0,
+        "type": "landscape"
+    },
+    "width": 1440
+}
