@@ -21,3 +21,22 @@
 - Code Runner
 - Path Intellisense
 - Live Server
+
+# JavaScript bush terminal
+<!-- 
+{
+	"window.zoomLevel": 0,
+	"editor.fontSize": 14,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 2,
+	"editor.formatOnSave": true,
+	"css.validate": false,
+	"scss.validate": false,
+	"editor.wordWrapColumn": 80,
+	"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+	"editor.glyphMargin": false,
+	"editor.smoothScrolling": true,
+	"editor.minimap.enabled": false,
+} 
+-->

@@ -31,3 +31,13 @@ a(); // Hello World!
 a = 10;
 
 a(); // Error: a is not a function
+
+const j = () => {
+    console.log("qwe");
+};
+
+j(); // qwe
+
+j = 10; // Type Error: assignment to const variable
+
+j();
