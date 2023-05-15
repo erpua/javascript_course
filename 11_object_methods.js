@@ -1,7 +1,16 @@
-const myCity = {
+/* const myCity = {
 	city: 'New york',
 	cityGreeting: function () {
-		console.log('The history of New York begins around 10,000 B.C. when the first people arrived.');
+		console.log('The Greetings.');
+	}
+};
+
+myCity.cityGreeting(); */
+
+const myCity = {
+	city: 'New york',
+	cityGreeting() {
+		console.log('Greetings');
 	}
 };
 
