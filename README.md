@@ -11,8 +11,8 @@
 - Code Runner
 
 --- DIFFERENT
-- I.e. and e.g. are both Latin abbreviations. E.g. stands for exempli gratia and means “for example.” 
-- I.e. is the abbreviation for "id est" and means “in other words.”
+- I.e. and e.g. are both Latin abbreviations. E.g. stands " for exempli gratia " and means “for example.” 
+- I.e. is the abbreviation for "id est" and means “ in other words ”
 
 --- JS course
 - node => starts node in VSCode
@@ -20,7 +20,8 @@
 --- Extensions
 - Code Runner
 - Path Intellisense
-- Live Server
+- Live Preview
+- Material Icon Theme
 
 # JavaScript bush terminal
 <!-- 
