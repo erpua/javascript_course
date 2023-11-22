@@ -14,6 +14,8 @@ copyOfA.c = 20;
 console.log(objA);
 // { a: 20, b: true, c: 20 }
 
+// dynamic typization - allows reassign a new type of variable with new value - to same variable
+// let a = 10; dynamic typization => a = 'qwe';
 let g = 10;
 
 g = true;

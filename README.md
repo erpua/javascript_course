@@ -7,17 +7,19 @@
 -  git config --global user.name "Ievgen Tovtin"
 -  git config --global user.email "zhe..."
 
----INSTALLATIONS: VsCode:
+# INSTALLATIONS: VsCode:
 - Code Runner
 
---- DIFFERENT
+# DIFFERENT
 - I.e. and e.g. are both Latin abbreviations. E.g. stands " for exempli gratia " and means “for example.” 
 - I.e. is the abbreviation for "id est" and means “ in other words ”
 
---- JS course
+# JS course
+- download node.js
+- node --version
 - node => starts node in VSCode
 
---- Extensions
+# Extensions
 - Code Runner
 - Path Intellisense
 - Live Preview
